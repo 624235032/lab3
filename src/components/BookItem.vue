@@ -22,7 +22,7 @@ export default {
   },
   props:["book"]
 
-
+//calss
 }
 </script>
 
